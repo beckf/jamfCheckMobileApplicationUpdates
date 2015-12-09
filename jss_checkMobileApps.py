@@ -23,7 +23,8 @@ class printColor:
         red = '\033[91m'
         yellow = '\033[93m'
         end = '\033[0m'
-#Emoticons
+
+#Emojis
 star = "\xE2\xAD\x90"
 oksign = "\xF0\x9F\x91\x8C"
 errorsign = "\xE2\x9D\x97"
